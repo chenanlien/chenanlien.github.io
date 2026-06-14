@@ -1,12 +1,19 @@
 # Chen-An Lien
 
-I am an incoming Research Professional at the Becker Friedman Institute, University of Chicago.
+Research Professional
+Becker Friedman Institute
+University of Chicago
 
-My research interests include labor economics, health economics, family economics, and applied microeconomics.
+## About
 
-## Contact
+I am a Research Professional at the Becker Friedman Institute at the University of Chicago.
 
-Email: ahn890209@gmail.com
+My research interests include:
+
+- Labor Economics
+- Family Economics
+- Political Economy
+- Applied Microeconomics
 
 ## CV
 
@@ -15,3 +22,9 @@ Coming soon.
 ## Research
 
 Coming soon.
+
+## Contact
+
+Email:
+LinkedIn:
+GitHub:
